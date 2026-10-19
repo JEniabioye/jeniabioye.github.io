@@ -1,22 +1,59 @@
-# Joshua Eniabioye — Portfolio Website
+# Joshua Eniabioye | Portfolio
 
-A responsive, static portfolio site built with HTML, CSS, and a small amount of JavaScript. It is suitable for free hosting on GitHub Pages.
+Welcome to my personal portfolio website. I'm a Junior Software Developer and ICT professional with experience in web development, IT support, and network troubleshooting.
 
-## Before publishing
+I enjoy solving problems, building useful applications, and using technology to create practical solutions.
 
-1. Check that the GitHub repository links point to your intended projects.
-2. Replace the generic LinkedIn link with your own profile URL.
-3. Add a professional contact email if you want visitors to contact you directly.
-4. Verify every project description and only list skills/services you can confidently demonstrate.
-5. Do not add passwords, API keys, private client information, or other secrets to this public repository.
+## About Me
 
-## Publish with GitHub Pages
+I have a background in Electronics and Computer Engineering and hands-on experience developing web applications with Python and Django. My ICT experience has also strengthened my troubleshooting, problem-solving, and technical support skills.
 
-1. Create a **public** GitHub repository named exactly `YOUR-GITHUB-USERNAME.github.io`.
-2. Upload `index.html`, `styles.css`, `script.js`, and `README.md` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Select branch `main` and folder `/(root)`, then save.
-6. Wait for deployment, then open `https://YOUR-GITHUB-USERNAME.github.io`.
+I'm currently focused on improving my software development skills, building projects, and contributing to meaningful solutions.
 
-GitHub Pages publishes static files; it does not run a Django/Python backend. Official guide: https://docs.github.com/en/pages/quickstart
+## Skills
+
+- **Programming:** Python, JavaScript (basic)
+- **Web Development:** Django, HTML, CSS, REST APIs
+- **Databases:** SQL fundamentals
+- **IT Support:** Hardware and software troubleshooting
+- **Networking:** Router and switch configuration, network troubleshooting
+- **Tools:** Git, GitHub, VS Code
+
+## Featured Projects
+
+Explore my GitHub repositories for projects demonstrating my development skills and practical experience.
+
+- **Task Manager:** A task management web application.
+- **Blog Application:** A web application for creating and managing blog posts.
+- **Online Shop:** An e-commerce project.
+- **Word Bank:** A programming project focused on working with words and data.
+
+See my repositories for source code and further details.
+
+## Services
+
+- Website development using Django
+- Backend development and REST API integration
+- Database-driven web applications
+- Website debugging and maintenance
+- Basic IT support and network troubleshooting
+
+## Technologies
+
+Python | Django | HTML | CSS | JavaScript | SQL | Git | GitHub
+
+## Connect With Me
+
+- **GitHub:** [JEniabioye](https://github.com/JEniabioye)
+- **LinkedIn:** Add your LinkedIn profile URL here.
+- **Email:** Add your professional email address here.
+
+## Live Portfolio
+
+Once published, your portfolio website will be accessible through your GitHub Pages URL.
+
+---
+
+Thank you for visiting my portfolio. I'm open to software development opportunities, collaborations, and freelance projects.
+
+**Built with HTML, CSS, and JavaScript.**
